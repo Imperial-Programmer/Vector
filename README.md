@@ -1,2 +1,2 @@
 # Teikoku3
-A java code about utilizing vector in java
+A simple code about utilizing vector in java through a basic menu.
